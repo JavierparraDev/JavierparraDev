@@ -3,7 +3,7 @@
 
 - 📖Estudiante de la Universidad Surcolombiana **Ingeniero de Software👨‍🎓**
 
-- 🌱 I’m currently learning **Java on udemy**
+
 
 - 💬 Ask me about **Html, Css, Javascript y react**
 
