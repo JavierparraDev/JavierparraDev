@@ -1,7 +1,5 @@
 <h1 align="center">Hola👋, Me llamo Javier Parra</h1>
-<h3 align="center">Mi experiencia abarca la creación de maquetados web en HTML5 y CSS, especialmente enfocados en la adaptabilidad a diferentes dispositivos. He utilizado herramientas como Figma para diseñar prototipos, lo que ha mejorado mi capacidad para visualizar y comunicar ideas de manera efectiva y concisa. Actualmente, estoy inmerso en el desarrollo de proyectos personales que van más allá, creando sitios web complejos y dinámicos utilizando React. Además, estoy profundizando mis conocimientos de JavaScript para ampliar mis habilidades y seguir creciendo en el campo de la programación. Mi compromiso con el aprendizaje continuo, el trabajo en equipo y la voluntad de compartir mis conocimientos con otros, así como de siempre poder aprender de los demás. me han ayudado a adaptarme a cualquier equipo de trabajo. Actualmente soy estudiante de Ingeniería de Software en el noveno semestre en la Universidad Surcolombiana. Mi enfoque en el trabajo en equipo y el aprendizaje continuo ha sido fundamental en mi trayectoria académica y humana.</h3>
 
-- 📖Estudiante de la Universidad Surcolombiana **Ingeniero de Software👨‍🎓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
